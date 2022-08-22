@@ -1,7 +1,7 @@
 # S2_S3_PS_MAG_PCBs
 A summary of the different MAG derived PCBs used in SUCHAI 2, SUCHAI 3 and Plansat Satellites
 
-##Folder Content
+## Folder Content
 
 - CADs: CAD files of some PCBs
 - Grafeno V2: KiCAD version of Graphene PCB (for debugging)
